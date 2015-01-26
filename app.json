@@ -1,1 +1,6 @@
-{}
+{
+  "name": "foo-test",
+  "description": "bar",
+  "website": "http://foo.com",
+  "addons": ["graphenedb:chalk"]
+}
